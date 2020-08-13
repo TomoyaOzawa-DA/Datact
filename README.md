@@ -1,1 +1,1 @@
-# Datact
+# Datact Marketing DataScience Workshop
